@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FahedJiha
 -
 -  👀 I’m interested in ... Computer Engineering I enjoy coding and learning new software languages all the while learning the actual components of the the computer circuitry and how they work. 
--       I have also found a new interest in mathematics and do see myself  pursuing a minor in mathematics 
+-       I have also found a new interest in mathematics and do see myself  pursuing a minor.
 -
 -  🌱 I’m currently learning ... C++ , Java , and other software languages 
 -
