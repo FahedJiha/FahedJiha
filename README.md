@@ -28,5 +28,5 @@
 👀 I’m interested in ... Computer Engineering I enjoy coding and learning new software languages all the while learning the actual components of the the computer circuitry and how they work.
   I have also found a new interest in mathematics and do see myself  pursuing a minor.
 🌱 I’m currently learning ... C++ , Java , and other software languages
-💞️ I’m looking to collaborate on ... an Intership with a softare development company to futher polish my skills in the programmign languages and gettig real world experiance to the major I am currently pursuing Computer Engineering.
-📫 How to reach me ... 📱 +1 850-284-6502 | Email: Fahedjiha@hotmail.com | LinkIn : https://www.linkedin.com/in/fahed-j-37849b253/ |
+💞️ I’m looking to collaborate on ... an Intership with a software development company to futher polish my skills in the programming languages and gettig real world experiance towards the major I am currently pursuing which is Computer Engineering.
+📫 How to reach me ... 📱 +1 850-284-6502 | Email: jihaf@mail.broward.edu | LinkIn : https://www.linkedin.com/in/fahed-j-37849b253/ |
